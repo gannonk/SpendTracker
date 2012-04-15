@@ -38,22 +38,22 @@
 		C3FF4182153A8D70004EDC7A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C3FF4184153A8D70004EDC7A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C3FF4186153A8D70004EDC7A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		C3FF418A153A8D70004EDC7A /* SpendTracker-Info.plist */ = {isa = PBXFileReference; path = "SpendTracker-Info.plist"; sourceTree = "<group>"; };
+		C3FF418A153A8D70004EDC7A /* SpendTracker-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SpendTracker-Info.plist"; sourceTree = "<group>"; };
 		C3FF418C153A8D70004EDC7A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C3FF418E153A8D70004EDC7A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C3FF4190153A8D70004EDC7A /* SpendTracker-Prefix.pch */ = {isa = PBXFileReference; path = "SpendTracker-Prefix.pch"; sourceTree = "<group>"; };
-		C3FF4191153A8D70004EDC7A /* SpendTrackerAppDelegate.h */ = {isa = PBXFileReference; path = SpendTrackerAppDelegate.h; sourceTree = "<group>"; };
+		C3FF4190153A8D70004EDC7A /* SpendTracker-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SpendTracker-Prefix.pch"; sourceTree = "<group>"; };
+		C3FF4191153A8D70004EDC7A /* SpendTrackerAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpendTrackerAppDelegate.h; sourceTree = "<group>"; };
 		C3FF4192153A8D70004EDC7A /* SpendTrackerAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpendTrackerAppDelegate.m; sourceTree = "<group>"; };
 		C3FF4195153A8D71004EDC7A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		C3FF4197153A8D71004EDC7A /* SpendTrackerMasterViewController.h */ = {isa = PBXFileReference; path = SpendTrackerMasterViewController.h; sourceTree = "<group>"; };
+		C3FF4197153A8D71004EDC7A /* SpendTrackerMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpendTrackerMasterViewController.h; sourceTree = "<group>"; };
 		C3FF4198153A8D71004EDC7A /* SpendTrackerMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpendTrackerMasterViewController.m; sourceTree = "<group>"; };
-		C3FF419A153A8D71004EDC7A /* SpendTrackerDetailViewController.h */ = {isa = PBXFileReference; path = SpendTrackerDetailViewController.h; sourceTree = "<group>"; };
+		C3FF419A153A8D71004EDC7A /* SpendTrackerDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpendTrackerDetailViewController.h; sourceTree = "<group>"; };
 		C3FF419B153A8D71004EDC7A /* SpendTrackerDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpendTrackerDetailViewController.m; sourceTree = "<group>"; };
 		C3FF41A2153A8D71004EDC7A /* SpendTrackerTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpendTrackerTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3FF41A3153A8D71004EDC7A /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		C3FF41AB153A8D71004EDC7A /* SpendTrackerTests-Info.plist */ = {isa = PBXFileReference; path = "SpendTrackerTests-Info.plist"; sourceTree = "<group>"; };
+		C3FF41AB153A8D71004EDC7A /* SpendTrackerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SpendTrackerTests-Info.plist"; sourceTree = "<group>"; };
 		C3FF41AD153A8D71004EDC7A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		C3FF41AF153A8D71004EDC7A /* SpendTrackerTests.h */ = {isa = PBXFileReference; path = SpendTrackerTests.h; sourceTree = "<group>"; };
+		C3FF41AF153A8D71004EDC7A /* SpendTrackerTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpendTrackerTests.h; sourceTree = "<group>"; };
 		C3FF41B0153A8D71004EDC7A /* SpendTrackerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpendTrackerTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
